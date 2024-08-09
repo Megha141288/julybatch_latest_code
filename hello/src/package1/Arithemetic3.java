@@ -4,6 +4,7 @@ public class Arithemetic3 {
 	public int div(int a, int b){
 	int c= a/b;
 	System.out.println(" The Result of div " +c);
+	System.out.println(" The Result of div " +c);
 	return c;
 	}
 	public int sub(int a1, int b1){

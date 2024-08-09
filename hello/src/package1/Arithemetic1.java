@@ -5,6 +5,7 @@ public int sum(int a, int b) {
 	int c;
 	c= a+b;
 	System.out.println("the result of sum" +c);
+	System.out.println("the result of sum" +c);
 	return c;
 }
 public int sub(int a1, int b1) {
